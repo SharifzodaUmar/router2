@@ -1,0 +1,28 @@
+{
+    "data":[
+        {
+            "name":"Decorative forged bridge",
+            "price":"$500",
+            "id":1,
+            "image":"/s5.png"
+        },
+        {
+            "name":"Flower basket",
+             "price":"$100",
+            "id":2,
+            "image":"/s6.png"
+        },
+        {
+            "name":"Aquarium lock",
+              "price":"$150",
+            "id":3,
+            "image":"/s7.png"
+        },
+        {
+            "name":"Secateurs",
+              "price":"$199",
+            "id":4,
+            "image":"/s8.png"
+        }
+    ]
+}
